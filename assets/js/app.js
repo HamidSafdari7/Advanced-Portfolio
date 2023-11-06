@@ -117,7 +117,7 @@ document.onkeydown = (e) => {
 {
   (function () {
     const typed = new Typed(".typed", {
-      strings: ["Full-Stack Developer", "Front-End Developer", "Back-End Developer"],
+      strings: ["Developer"],
       typeSpeed: 150,
       backSpeed: 150,
       loop: true
@@ -139,7 +139,7 @@ document.onkeydown = (e) => {
 {
   (function () {
     const typed = new Typed(".titleAbout", {
-      strings: ["I'm A Full-Stack Developer"],
+      strings: ["Hello World! :)))"],
       typeSpeed: 150,
       backSpeed: 150,
       loop: true
@@ -159,7 +159,7 @@ document.onkeydown = (e) => {
     mode: "continuous",
     position: "custom",
     content:
-      "- HTML - Css - Javascript - Jquery - Bootstrap - Material UI - Reactjs - Next Js - Redux - Jest - Node Js - Express js - PHP - Laravel 10 - MongoDB - PostgreSQL - Mysql - Hooks - Git - Github - Responsive design - slick js"
+      "- HTML - Css - Javascript - Jquery - Bootstrap - Material UI - Reactjs - Next Js - Redux - Jest - Node Js - Express js - Python - PHP - Laravel 10 - MongoDB - PostgreSQL - Mysql - Hooks - Git - Github - Responsive design - slick js"
   });
 }
 
@@ -179,15 +179,14 @@ document.onkeydown = (e) => {
     <img src="assets/images/icon/02.png" alt="css">
     <img src="assets/images/icon/03.png" alt="javascript">
     <img src="assets/images/icon/017.png" alt="Next js">
-    <img src="assets/images/icon/018.png" alt="Jest">
     <img src="assets/images/icon/08.png" class="jquery" alt="git">
     <img src="assets/images/icon/015.png" class="jquery bgGit" alt="github">
-    <img src="assets/images/icon/014.png" class="jquery" alt="jquery">
     <img src="assets/images/icon/04.png" alt="bootstrap">
     <img src="assets/images/icon/06.png" alt="Material UI">
     <img src="assets/images/icon/05.png" alt="react">
     <img src="assets/images/icon/010.png" alt="redux">
     <img src="assets/images/icon/016.png" alt="Nodejs">
+    <img src="assets/images/icon/019.png" alt="Pythone">
     <img src="assets/images/icon/011.png" alt="PHP">
     <img src="assets/images/icon/012.png" alt="Laravel">
     <img src="assets/images/icon/013.png" alt="MongoDB">
