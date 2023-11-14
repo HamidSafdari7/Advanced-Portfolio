@@ -159,7 +159,7 @@ document.onkeydown = (e) => {
     mode: "continuous",
     position: "custom",
     content:
-      "- HTML - Css - Javascript - Jquery - Bootstrap - Material UI - Reactjs - Next Js - Redux - Jest - Node Js - Express js - Python - PHP - Laravel 10 - MongoDB - PostgreSQL - Mysql - Hooks - Git - Github - Responsive design - slick js"
+      "- HTML - Css - TypeScript - Javascript - Jquery - Tailwind - Material UI - Reactjs - Next Js - Redux - Jest - Node Js - Express js - Python - PHP - Laravel 10 - MongoDB - PostgreSQL - Mysql - Hooks - Git - Github - Responsive design - slick js"
   });
 }
 
@@ -178,6 +178,7 @@ document.onkeydown = (e) => {
     <img src="assets/images/icon/01.png" alt="html">
     <img src="assets/images/icon/02.png" alt="css">
     <img src="assets/images/icon/03.png" alt="javascript">
+    <img src="assets/images/icon/020.png" alt="typescript">
     <img src="assets/images/icon/017.png" alt="Next js">
     <img src="assets/images/icon/08.png" class="jquery" alt="git">
     <img src="assets/images/icon/015.png" class="jquery bgGit" alt="github">
