@@ -249,7 +249,7 @@ document.onkeydown = (e) => {
     mousewheel: false,
     keyboard: true,
     autoplay: {
-      delay: 4000,
+      delay: 1000,
     },
     loop: true,
     breakpoints: {
